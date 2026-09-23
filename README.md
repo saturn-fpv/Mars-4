@@ -55,8 +55,8 @@ The **Mars 4** is a **160 mm wheelbase unibody frame** built around one goal: hy
 
 ### **Propeller Size**
 
-- **4" propellers**, **1.5 mm shaft bore**
-Recommended options:
+- **4" propellers**, **1.5 mm shaft bore**  
+  Recommended options:
   * HQProp T4X2.5 bi-blade (reference build).
   * Gemfan LR 4024 bi-blade
 
