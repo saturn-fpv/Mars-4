@@ -4,7 +4,15 @@
 
 The **Mars 4** is a **160 mm wheelbase unibody frame** built around one goal: hyper efficiency. It takes the truss-style arm design of the Mars 2 and Mars 3 and stretches it for 4" props on 2S, trading punch for quiet, long-endurance cruising. The reference build carries a 5000 mAh 2S 21700 pack for **40 minutes and 23 km round trip**.
 
-[images]
+<p align="center">
+  <img src="/images/Mars-4.jpg" width="40%">
+  <img src="/images/40min_small.jpg" width="40%">
+</p>
+
+<p align="center">
+  <img src="/images/weight_small.jpg" width="30%">
+  <img src="/images/Mars-series_small.jpg" width="40%">
+</p>
 
 ---
 
