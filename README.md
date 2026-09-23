@@ -38,6 +38,7 @@ The **Mars 4** is a **160 mm wheelbase unibody frame** built around one goal: hy
 ### **Frame Thickness**
 
 - **3 mm carbon fiber:** extremely rigid and barely any twisting, even with 4" arms, still light for the size.
+- **2.5 mm carbon fiber:** when every gram counts. Still strong due to truss-style arms.
 
 ### **Weight**
 
