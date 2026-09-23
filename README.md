@@ -23,7 +23,7 @@ The **Mars 4** is a **160 mm wheelbase unibody frame** built around one goal: hy
 - **Central mounting platform** for clean AIO or stack installation
 - **Octa-shape base**, rigid and with enough space for 90° USB-C or Micro-USB ports
 - **160 mm wheelbase** tuned for efficiency and quiet flight rather than raw power
-- **Integrated hooks for elastics**, so 21700 packs and odd battery shapes strap down without a dedicated holder
+- **Elastics hooks** for flexible and lightweight battery mounting (fits 2S 21700)
 - **Wide motor protection zones** for better crash resistance
 - **Compatible with analog and HD systems** (DJI O4, HDZero, Walksnail, analog)
 - **13.9 g frame weight**
@@ -35,7 +35,7 @@ The **Mars 4** is a **160 mm wheelbase unibody frame** built around one goal: hy
 
 ### **Frame Thickness**
 
-- **3 mm carbon fiber:** needed for the longer 4" arms, still light for the size.
+- **3 mm carbon fiber:** extremely rigid and barely any twisting, even with 4" arms, still light for the size.
 
 ### **Weight**
 
@@ -54,7 +54,8 @@ The **Mars 4** is a **160 mm wheelbase unibody frame** built around one goal: hy
 
 - **4" propellers**, **1.5 mm shaft bore**
 Recommended options:
-  * HQProp T4X2.5 bi-blade (reference build). The low pitch is a large part of the efficiency and the low noise
+  * HQProp T4X2.5 bi-blade (reference build).
+  * Gemfan LR 4024 bi-blade
 
 ### **Screw Sizes**
 
@@ -66,7 +67,6 @@ Recommended options:
 
 Material: **TPU (95A)**
 Suggested prints:
-
 - Canopy (Happymodel 25.5 mm canopy used on the reference build)
 - GPS mount (optional)
 
@@ -79,9 +79,9 @@ Suggested prints:
 | Frame | Mars 4, 3 mm carbon, 13.9 g |
 | Motors | RCinPOWER GTS V3 1303 6000 Kv |
 | Props | HQProp T4X2.5 bi-blade, 1.5 mm bore |
-| AIO | JHEMCU 20 A 2-4S |
+| AIO | JHEMCU 20A 2-4S |
 | GPS | Flywoo Nano M10 |
-| Canopy | Happymodel |
+| Canopy | Happymodel Mobula 7 o4 |
 | Battery | 5000 mAh 2S 21700 |
 | AUW | 71 g without battery |
 | Endurance | 40 min, 23 km round trip cruising |
@@ -91,8 +91,8 @@ Suggested prints:
 ## 🏗️ Build Tips
 
 - Order props with a **1.5 mm bore**. The GTS V3 1303 uses a 1.5 mm press-fit prop shaft, and 2 mm bore props will not fit
-- Use the frame hooks with elastics rather than a strap. It holds cylindrical 21700 packs securely and survives crashes better than a strap slot
-- Mount the GPS as far from the VTX and power wiring as practical to keep the fix clean
+- Use the frame hooks with elastics rather than a strap. It holds even 2s 21700 packs securely and is super lightweight
+- Mount the GPS as far from the VTX and power wiring and wrap the wire with copper foild + electrical tape to get a good satellite fix
 - Tighten the stack screw with a nut under the AIO to reduce noise
 - Keep the battery centered for better CG, and recheck CG after moving to a heavier pack
 - Keep wiring short for better performance and reliability
@@ -110,4 +110,4 @@ Suggested prints:
 
 - [Mars 2](https://github.com/saturn-fpv/Mars-2) - 90 mm wheelbase, 2" props, 2 mm carbon
 - [Mars 3](https://github.com/saturn-fpv/Mars-3) - 120 mm wheelbase, 3" props, 2.5 mm carbon
-- **Mars 4** - 160 mm wheelbase, 4" props, 3 mm carbon
+- [Mars 4](https://github.com/saturn-fpv/Mars-4) - 160 mm wheelbase, 4" props, 3 mm carbon
