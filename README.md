@@ -47,7 +47,7 @@ The **Mars 4** is a **160 mm wheelbase unibody frame** built around one goal: hy
 
 ### **Motor Recommendations**
 
-- **1303, 1204, 1404 motors** with a **9 mm bolt circle** (4.5 mm hole radius from center), M2
+- **1303, 1204, 1404 motors** with a **9 mm bolt circle** (4.5 mm hole radius from center), 4 x M2
 - Kv range:
   * **2S builds:** 5000-6000 Kv
   * **3S-4S builds:** 3000-4000 Kv
