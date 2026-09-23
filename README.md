@@ -4,7 +4,7 @@
 
 ### 4" Unibody Long Range FPV Frame
 
-The **Mars 4** is a **160 mm wheelbase unibody frame** built around one goal: hyper efficiency. It takes the truss-style arm design of the Mars 2 and Mars 3 and stretches it for 4" props on 2S, trading punch for quiet, long-endurance cruising. The reference build carries a 5000 mAh 2S 21700 pack for **40 minutes and 23 km round trip**.
+The **Mars 4** is a **160 mm wheelbase unibody frame** built around one goal: hyper efficiency. It takes the truss-style arm design of the Mars 2 and Mars 3 and stretches it for 4" props on 2S, trading punch for quiet, long-endurance cruising. The sub250g reference build carries a 5000 mAh 2S 21700 pack for **40 minutes and 23 km round trip**.
 
 <p align="center">
   <img src="/images/Mars-4.jpg" width="40%">
