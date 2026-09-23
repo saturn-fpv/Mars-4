@@ -104,7 +104,7 @@ Suggested prints:
 
 ## 🔗 Printables Link
 
-👉 **Printables:** [add link]
+👉 **Printables:** [coming soon]
 
 ---
 
