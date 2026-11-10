@@ -12,7 +12,7 @@ The **Mars 4** is a **160 mm wheelbase unibody frame** built around one goal: hy
 </p>
 
 <p align="center">
-  <img src="/images/weight_small.jpg" width="30%">
+  <img src="/images/weight_small.jpg" width="40%">
   <img src="/images/Mars-series_small.jpg" width="40%">
 </p>
 
