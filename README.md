@@ -33,6 +33,12 @@ The **Mars 4** is a **160 mm wheelbase unibody frame** built around one goal: hy
 
 ---
 
+## 🛒 Buy the Frame
+
+The design is free and open source, so you can have it made by any CNC milling service. If you'd rather skip the setup, [CNCDrones](https://cncdrones.com/) will soon offer this frame for sale.
+
+---
+
 ## 🔧 Build Specifications & Recommendations
 
 ### **Frame Thickness**
