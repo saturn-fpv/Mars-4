@@ -105,7 +105,7 @@ Suggested prints:
 
 ## 🔗 Printables Link
 
-👉 **Printables:** [coming soon]
+👉 **Printables:** [https://www.printables.com/model/1908784-mars-4-fpv-drone-frame](https://www.printables.com/model/1908784-mars-4-fpv-drone-frame)
 
 ---
 
